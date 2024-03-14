@@ -70,3 +70,78 @@ height: 20px;
 .btn{
     margin-top: 80px;
 }
+@media all and (min-width: 280px) and (max-width:1024px){
+    #topgreen{
+        display: flex; 
+        justify-content: space-between;
+        font-size: xx-small;
+        background-color: rgb(65, 194, 134);
+        flex-wrap: wrap;
+    }
+    #bemins{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        font-size: x-small;
+        gap: 3px;
+    }
+    #cap{
+        display: flex;
+        justify-content: center;
+        justify-content: space-evenly;
+        flex-wrap: wrap ;
+        gap:2px;
+        font-size: x-small;
+    }
+    #stylish{   
+        font-size: 30px;
+    } 
+    #major{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        gap: 2px;
+    }
+    #handbags{
+        display: flex;
+        gap: 90px;
+        flex-wrap: wrap;
+    }
+    #collection{
+        display: flex;
+        gap: 90px;
+        flex-wrap: wrap;
+    }
+    #modern{
+        margin-top: 20px;
+    }
+    #best{
+        display: flex;
+        justify-content: center;
+        gap: 30px;
+        flex-wrap: wrap;
+    }
+    #outfits{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    #hats{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    #knit{
+        display: flex;
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+    #wool{
+        display: flex;
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+    .btn{
+        margin-top: 30px;
+    }   
+}
