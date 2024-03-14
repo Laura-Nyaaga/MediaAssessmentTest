@@ -143,5 +143,27 @@ height: 20px;
     }
     .btn{
         margin-top: 30px;
-    }   
+    }  
+    #icon{
+        height: 10px;
+    } 
+    #bluewhite{
+        width: 200px;
+        height: 250px;
+    }
+    .pink{
+        height: 100px;
+        width: 100px;
+    }
+    #sandles{
+        height: 75px;
+        width: 150px;
+    }
+    .girl{
+        height: 100px;
+    }
+    .manblue{
+        width: 150px;
+        height: 150px;
+    }
 }
