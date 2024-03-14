@@ -1,0 +1,72 @@
+#topgreen{
+   display: flex; 
+   justify-content: space-between;
+   font-size: 7px;
+   background-color: rgb(65, 194, 134);
+}
+#bemins{
+    display: flex;
+    justify-content: space-between;
+}
+#home{
+    display: flex;
+    gap: 10px;
+}
+#images{
+    display: flex;
+    gap: 10px;
+}
+#search{
+margin-top: 15px;
+height: 20px;
+}
+#cap{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+#customer{
+    margin-top: 20px;
+}
+#stylish{   
+    font-size: 100px;
+}
+#major{
+    display: flex;
+    justify-content: space-between;
+}
+#handbags{
+    display: flex;
+    gap: 260px;
+}
+#collection{
+    display: flex;
+    gap: 200px;
+}
+#modern{
+    margin-top: 50px;
+}
+#best{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
+#outfits{
+    display: flex;
+    justify-content: space-between;
+}
+#hats{
+    display: flex;
+    justify-content: space-between;
+}
+#knit{
+    display: flex;
+    gap: 50px;
+}
+#wool{
+    display: flex;
+    gap: 50px;
+}
+.btn{
+    margin-top: 80px;
+}
